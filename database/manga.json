@@ -1,0 +1,46 @@
+{
+  "_metadata": {
+    "version": "manga.json V1.0 Rev 0",
+    "last_updated": "2026-06-06T13:33:00Z"
+  },
+  "manga_id": "M-DRGN-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "드래곤 슬레이어의 회귀",
+  "status": "Ongoing",
+  "author": "Wookjakga",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 9.6,
+  "synopsis": "Bercerita tentang manusia terakhir yang tersisa, sang Pembunuh Naga yang berhasil memenggal kepala Raja Naga Kuno. Namun, dia mati akibat racun dan kutukan naga tersebut. Alih-alih menghilang, ia justru terbangun kembali di masa lalunya sebelum bencana invasi naga dimulai. Kini, dengan ingatan dan pengalaman tempurnya, ia bersumpah untuk mengubah takdir kelam umat manusia.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/M-DRGN-001-cover.webp",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian Sang Pahlawan",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch001/01.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch001/02.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch001/03.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch001/04.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch001/05.webp"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Terbangun di Masa Lalu",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch002/01.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch002/02.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch002/03.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/M-DRGN-001/ch002/04.webp"
+      ]
+    }
+  ]
+}
